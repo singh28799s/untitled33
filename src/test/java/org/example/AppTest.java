@@ -1,6 +1,5 @@
-package com.example;
+package org.example;
 
-import org.example.App;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
